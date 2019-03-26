@@ -77,6 +77,16 @@ These are instructions for setting up your Eclipse workspace in a way that doesn
 1. ???
 1. PROFIT!
 
+Here are some recommended settings as well:
+
+1. Window -> Preferences -> Java -> Editor -> Save Actions
+1. Check "Perform the selected actions on save"
+1. Check "Format source code" and "Format edited lines"
+1. Check "Organize imports"
+1. Check "Additional actions"
+1. Hit "Configure..."
+1. Under "Formatter", check "Remove trailing whitespace, _All lines_", and check "Correct indentation"
+
 ## **Task 1** - Functional Testing
 
 Functional Testing is a black box testing technique. You should use `spec-a.pdf` as your specification for input and output.
